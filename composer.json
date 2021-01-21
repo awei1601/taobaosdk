@@ -1,9 +1,16 @@
 {
     "name": "awei1601/taobaosdk",
     "description": "淘宝开放平台SDK提供了API的请求封装、摘要签名、响应解释、消息监听等功能，使用SDK可以轻松完成API的调用、API结果的获取、消息的实时监听。",
+    "keywords": [
+        "taobao",
+        "taobaosdk",
+        "淘宝云云对接",
+        "阿里云云对接",
+        "云云对接"
+    ],
     "type": "library",
     "require": {
-        "php": ">= 5.2.0",
+        "php": "^5.4 || ^7.0",
         "ext-curl": "*"
     },
     "license": "MIT",

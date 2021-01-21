@@ -11,6 +11,11 @@
     ③：百川SDK网关专用，提供SDK各个功能的访问权限
     ④：提供系统时间查询、地址区域查询等系统API。
 ```
+## 安装
+```bash
+$ composer require awei1601/taobaosdk
+```
+
 ## 使用示例
 ### 百川基础能力（新）[文档地址](https://open.taobao.com/api.htm?docId=23431&docType=2&scopeId=11773)
 ```php
